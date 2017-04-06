@@ -1,0 +1,9 @@
+[submodule "src/bridge"]
+	path = src/bridge
+	url = http://github.com/ZCXL/bridge
+[submodule "src/bridge_object"]
+	path = src/bridge_object
+	url = http://github.com/ZCXL/bridge_object
+[submodule "src/JavaToCXX"]
+	path = src/JavaToCXX
+	url = http://github.com/ZCXL/JavaToCXX

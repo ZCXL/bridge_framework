@@ -7,6 +7,7 @@ clean:
 
 build:
 	$(MAKE) -C src/bridge -f Makefile
+	$(MAKE) -C src/bridge -f Makefile install
 	$(MAKE) -C src/bridge_object -f Makefile
 	$(MAKE) -C src/JavaToCXX -f Makefile
 

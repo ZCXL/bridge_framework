@@ -21,5 +21,5 @@
     export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$JAVA_HOME/jre/lib/amd64:$JAVA_HOME/jre/lib/amd64/server
     然后执行命令 source /etc/profile
 ## 3.框架基本使用介绍
-  请参见[bridge_framework基础使用文档](http://pan.baidu.com/s/1slhiiAx "bridge_framework文档")
+  请参见[bridge_framework基础使用文档](https://pan.baidu.com/s/1c15EWve "bridge_framework文档")
       
